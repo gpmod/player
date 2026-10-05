@@ -1,5 +1,5 @@
 const cachePrefix = 'gp-player-'
-const cacheVersion = 'v19'
+const cacheVersion = 'v28'
 const cacheName = `${cachePrefix}${cacheVersion}`
 
 const PATHNAME = '/player'
